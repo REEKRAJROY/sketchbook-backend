@@ -1,6 +1,12 @@
 # Sketchbook-backend
 Backend service for Sketchbook. Uses socket io for establishing communication between n different servers running together to ensure collaborative sync.
-# Installation
+<br>
+<br>
+<b> Installation
+<br>
 `npm install`
-# Running the service locally
+<br>
+<br>
+<b> Running the service locally
+<br>
 `node index.js`
